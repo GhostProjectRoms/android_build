@@ -1,7 +1,7 @@
 
 # List of variables we want to print in the build banner.
 print_build_config_vars := \
-  XENONHD_VERSION \
+  PAOSP_VERSION \
   TARGET_PRODUCT \
   PLATFORM_VERSION \
   BUILD_ID \
